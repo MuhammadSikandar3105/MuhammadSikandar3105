@@ -71,9 +71,9 @@ I specialize in **MERN stack** development along with modern tools like **NestJS
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio Website](https://yourportfolio.com)
+- 📧 Email: muhammadsikandar3105@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-sikandar-bb127a319/)  
+- 🌐 [Portfolio Website](https://sikandardev.netlify.app)
 
 ---
 
