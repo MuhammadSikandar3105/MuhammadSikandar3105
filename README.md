@@ -48,7 +48,7 @@ I specialize in **MERN stack** development along with modern tools like **NestJS
 
 ## 📂 Featured Projects
 
-### 📸 [Instagram Clone](https://github.com/yourusername/instagram-clone)
+### 📸 [Instagram Clone](https://github.com/muhammadsikandar3105/Instagram-performance-clone)
 > Social media app with photo sharing, likes, comments, and user profiles  
 🧱 Built with: React.js, Redux, Node.js, Express.js
 
@@ -67,10 +67,6 @@ I specialize in **MERN stack** development along with modern tools like **NestJS
 ### 🚗 [Uber Clone – Real-Time Booking](https://github.com/yourusername/uber-clone)
 > Ride-sharing platform with map, real-time tracking, and booking system  
 🧱 Built with: React.js, Node.js, Express.js, MongoDB, WebSockets, Socket.IO
-
-### 🔧 [E-commerce Full-Stack App](https://github.com/yourusername/ecommerce-app)
-> Full shopping experience with cart, payments, and admin panel  
-🧱 Built with: React, Node.js, MongoDB, Express, Redux, Stripe
 
 ### 🛠️ [Admin Dashboard](https://github.com/yourusername/admin-dashboard)
 > Admin dashboard with charts, filters, and user roles  
