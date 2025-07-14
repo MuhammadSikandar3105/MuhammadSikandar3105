@@ -70,7 +70,7 @@ I specialize in **MERN stack** development along with modern tools like **NestJS
 
 ### 🛠️ [Admin Dashboard](https://github.com/yourusername/admin-dashboard)
 > Admin dashboard with charts, filters, and user roles  
-🧱 Built with: Next.js, Tailwind, PostgreSQL, NestJS
+🧱 Built with: Next.js, Tailwind, FireBase
 
 ### 📡 [DevOps CI/CD Boilerplate](https://github.com/yourusername/devops-template)
 > Deployment-ready setup with CI/CD pipeline using GitHub Actions and Docker  
