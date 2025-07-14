@@ -80,7 +80,7 @@ I specialize in **MERN stack** development along with modern tools like **NestJS
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsikandar3105&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadSikandar3105&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800&custom_title=Muhammad%20Sikandar's%20GitHub%20Stats&token=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)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsikandar3105&layout=compact&theme=radical)
 
 ---
