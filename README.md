@@ -48,16 +48,36 @@ I specialize in **MERN stack** development along with modern tools like **NestJS
 
 ## 📂 Featured Projects
 
+### 📸 [Instagram Clone](https://github.com/yourusername/instagram-clone)
+> Social media app with photo sharing, likes, comments, and user profiles  
+🧱 Built with: React.js, Redux, Node.js, Express.js
+
+### 🏢 [BlueHouze Real Estate Platform](https://github.com/yourusername/bluehouze)
+> Property listing SaaS platform with dynamic field configurations and role-based access  
+🧱 Built with: Next.js, Node.js, Express.js, PostgreSQL, Prisma
+
+### 🌍 [LLC – Location Location Consultant](https://github.com/yourusername/llc-platform)
+> Clean UI for real estate agents and consultants with property info, filtering, and map views  
+🧱 Built with: React.js, Redux, TailwindCSS
+
+### 💬 [Chat App – Real-time Messaging](https://github.com/yourusername/chatapp-realtime)
+> Real-time chat with socket-based communication and user presence  
+🧱 Built with: React.js, WebSockets, Node.js, Express.js, MongoDB
+
+### 🚗 [Uber Clone – Real-Time Booking](https://github.com/yourusername/uber-clone)
+> Ride-sharing platform with map, real-time tracking, and booking system  
+🧱 Built with: React.js, Node.js, Express.js, MongoDB, WebSockets, Socket.IO
+
 ### 🔧 [E-commerce Full-Stack App](https://github.com/yourusername/ecommerce-app)
-> MERN + Stripe + Admin Dashboard + Auth  
+> Full shopping experience with cart, payments, and admin panel  
 🧱 Built with: React, Node.js, MongoDB, Express, Redux, Stripe
 
-### 🏢 [Admin Dashboard](https://github.com/yourusername/admin-dashboard)
-> Role-based access • Prisma ORM • REST APIs  
+### 🛠️ [Admin Dashboard](https://github.com/yourusername/admin-dashboard)
+> Admin dashboard with charts, filters, and user roles  
 🧱 Built with: Next.js, Tailwind, PostgreSQL, NestJS
 
 ### 📡 [DevOps CI/CD Boilerplate](https://github.com/yourusername/devops-template)
-> Docker + GitHub Actions + NGINX + Node App  
+> Deployment-ready setup with CI/CD pipeline using GitHub Actions and Docker  
 🧱 Built with: Node.js, Docker, GitHub Actions
 
 ---
