@@ -62,11 +62,11 @@ I specialize in **MERN stack** development along with modern tools like **NestJS
 
 ### 💬 [Chat App – Real-time Messaging](https://github.com/yourusername/chatapp-realtime)
 > Real-time chat with socket-based communication and user presence  
-🧱 Built with: React.js, WebSockets, Node.js, Express.js, MongoDB
+🧱 Built with: React.js, WebSockets, Tailwind, Node.js, Express.js, MongoDB
 
 ### 🚗 [Uber Clone – Real-Time Booking](https://github.com/yourusername/uber-clone)
 > Ride-sharing platform with map, real-time tracking, and booking system  
-🧱 Built with: React.js, Node.js, Express.js, MongoDB, WebSockets, Socket.IO
+🧱 Built with: React.js, Node.js, Tailwind, Express.js, MongoDB, WebSockets, Socket.IO
 
 ### 🛠️ [Admin Dashboard](https://github.com/yourusername/admin-dashboard)
 > Admin dashboard with charts, filters, and user roles  
